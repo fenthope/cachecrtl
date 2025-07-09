@@ -1,4 +1,4 @@
-package cachecrtl
+package cachectrl
 
 import (
 	"unsafe"

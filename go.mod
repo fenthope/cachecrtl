@@ -1,4 +1,4 @@
-module github.com/fenthope/cachecrtl
+module github.com/fenthope/cachectrl
 
 go 1.24.4
 
